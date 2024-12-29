@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">A passionate Software Developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Education: Lomonosov Moscow State University, Computational Mathematics and Cybernetics
 
 - 📫 Connect with me: 
 <a href="https://t.me/ilyaaa882" target="blank">My telegram </a>
